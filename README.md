@@ -108,4 +108,4 @@ The Resume Parser AI Project demonstrates a robust approach to automating the re
 
 **Future Work**: Future enhancements may include integrating the system with applicant tracking systems, handling more diverse datasets, and refining the model based on stakeholder feedback and real-world performance.
 
-**Contact**: For more information or contributions, please reach out to Pyotr Datsenko.
+**Contact**: For more information or contributions, please reach out to Peter Datsenko.
